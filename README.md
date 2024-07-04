@@ -1,4 +1,14 @@
-## Hi there 👋
+<h2 align="center">Hello 👋, I'm Woon Zhen Fei</h2>
+<h3 align="center">A web developer in Malaysia</h3>
+<p align="center">🌱 I’m currently learning <i>React</i> through The Odin Project's Full Stack JavaScript path</p>
+<p align="center">📫 How to reach me: <i>woonzf@gmail.com</i></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/woonzf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="woonzf" height="30" width="40" /></a>
+</p>
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **woonzf/woonzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
