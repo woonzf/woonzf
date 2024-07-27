@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h4>Languages:</h4>
+<h4>Languages 👩‍💻:</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -31,7 +31,7 @@
   </picture>
 </p>
 
-<h4>Frameworks and Library:</h4>
+<h4>Frameworks & Library 🚀:</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -53,51 +53,46 @@
   </picture>
 </p>
 
-<h4>Database:</h4>
+<h4>Others ⚡🧐👩‍💻💻🖍:</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   </picture>
-</p>
-
-<h4>Linters:</h4>
-<p>
   <picture>
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier"/>
   </picture>
-</p>
-
-<h4>IDE:</h4>
-<p>
   <picture>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
   </picture>
-</p>
-
-<h4>Terminal:</h4>
-<p>
   <picture>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </picture>
-</p>
-
-<h4>Virtualization:</h4>
-<p>
   <picture>
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/>
   </picture>
-</p>
-
-<h4>Design:</h4>
-<p>
   <picture>
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/>
   </picture>
 </p>
 
+<details>
+  <summary>
+    <h4>Stats 📊⏱</h4>
+  </summary>
+  <p>
+    <picture>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonzf&theme=dark" alt="Most Used Language"/>
+    </picture>
+    <picture>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woonzf&theme=dark" alt="Streak Stats"/>
+    </picture>
+  </p>
+</details>
+
 <p>
   Badges from 
   <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank" rel="noreferrer">Badges 4 README</a>
+  (<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic" target="_blank" rel="noreferrer">Dynamic</a>)
 </p>
 
 <!-- ## Hi there 👋 -->
