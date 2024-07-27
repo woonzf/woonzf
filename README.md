@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h4>Languages 👩‍💻:</h4>
+<h4>Languages 👩‍💻</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -31,7 +31,7 @@
   </picture>
 </p>
 
-<h4>Frameworks & Library 🚀:</h4>
+<h4>Frameworks & Library 🚀</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -53,7 +53,7 @@
   </picture>
 </p>
 
-<h4>Others ⚡🧐👩‍💻💻🖍:</h4>
+<h4>Others ⚡🧐👩‍💻💻🖍</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
