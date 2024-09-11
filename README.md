@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Woon Zhen Fei</h2>
 <h3 align="center">A web developer in Malaysia</h3>
-<p align="center">🌱 I’m currently learning <i>React</i> through The Odin Project's Full Stack JavaScript path</p>
+<p align="center">🌱 I’m currently learning <i>NodeJS</i> through The Odin Project's Full Stack JavaScript path</p>
 <p align="center">🙇‍♂️ I’m also looking for a job opportunity in web development</p>
 <p align="center">📫 How to reach me: <i>woonzf@gmail.com</i></p>
 <p align="center">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h4>Languages 👩‍💻</h4>
+<h4>Languages</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -24,14 +24,17 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   </picture>
   <picture>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </picture>
   <picture>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </picture>
 </p>
 
-<h4>Frameworks & Library 🚀</h4>
+<h4>Frameworks & Library</h4>
 <p>
   <picture>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -53,8 +56,11 @@
   </picture>
 </p>
 
-<h4>Others ⚡🧐👩‍💻💻🖍</h4>
+<h4>Others</h4>
 <p>
+  <picture>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </picture>
   <picture>
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   </picture>
@@ -67,17 +73,11 @@
   <picture>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/>
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/>
-  </picture>
 </p>
 
 <details>
   <summary>
-    <h4>Stats 📊⏱</h4>
+    <h4>Stats</h4>
   </summary>
   <p>
     <picture>
