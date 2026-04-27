@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Woon Zhen Fei</h2>
 <h3 align="center">Front End Developer</h3>
-<p align="center">👀 I’m looking for a job opportunity in front-end development</p>
-<p align="center">📫 How to reach me: <i>woonzf@gmail.com</i></p>
+<!-- <p align="center">👀 I’m looking for a job opportunity in front-end development</p>
+<p align="center">📫 How to reach me: <i>woonzf@gmail.com</i></p> -->
 <p align="center">
   <a href="https://woonzf.github.io/portfolio/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
