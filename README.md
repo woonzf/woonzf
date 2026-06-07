@@ -74,24 +74,9 @@
   </picture>
 </p>
 
-<details>
-  <summary>
-    <h4>Stats</h4>
-  </summary>
-  <p>
-    <picture>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonzf&theme=dark" alt="Most Used Language"/>
-    </picture>
-    <picture>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woonzf&theme=dark" alt="Streak Stats"/>
-    </picture>
-  </p>
-</details>
-
 <p>
   Badges from 
   <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank" rel="noreferrer">Badges 4 README</a>
-  (<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic" target="_blank" rel="noreferrer">Dynamic</a>)
 </p>
 
 <!-- ## Hi there 👋 -->
